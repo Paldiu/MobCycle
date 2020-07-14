@@ -1,0 +1,6 @@
+name: MobCycle
+version: 1.0.0
+api-version: 1.16
+author: CoomWare
+main: dev.coomware.MobCycle
+description: This plugin offers numerous server enhancements and tweaks.
