@@ -88,4 +88,8 @@ public abstract class GUIMenu implements InventoryHolder, Listener {
         item.setItemMeta(meta);
         return item;
     }
+
+    public final ItemStack newItem(Material mat, String name) {
+        return newItem(mat, name, "");
+    }
 }

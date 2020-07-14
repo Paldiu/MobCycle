@@ -10,4 +10,13 @@ public class TypeCycler extends GUIMenu {
             super(18, "Sub Types");
         }
     }
+
+    public static class Pattern extends GUIMenu {
+        public Pattern() { super(18, "Pattern Color"); }
+    }
+
+    public static class Body extends GUIMenu {
+        public Body() { super(18, "Body Color"); }
+    }
+
 }
