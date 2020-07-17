@@ -19,4 +19,16 @@ public class TypeCycler extends GUIMenu {
         public Body() { super(18, "Body Color"); }
     }
 
+    public static class MainGene extends GUIMenu {
+        public MainGene() { super(9, "Main Gene"); }
+    }
+
+    public static class HiddenGene extends GUIMenu {
+        public HiddenGene() { super(9, "Hidden Gene"); }
+    }
+
+    public static class Professions extends GUIMenu {
+        public Professions() { super(18, "Professions"); }
+    }
+
 }

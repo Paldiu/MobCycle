@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d50ca98a-2bc7-4c85-a48c-c83f5952a4fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/CatType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/FoxType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/HorseType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/LlamaType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/PandaType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/ParrotType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/RabbitType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/SheepType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/TropicalFishType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/VillagerType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dev/coomware/util/CycleListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/util/CycleListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/coomware/util/GUIMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/util/GUIMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dev/coomware/util/TypeCycler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/util/TypeCycler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +56,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mcMMO" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -69,26 +79,38 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="19" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1594674793200" />
-    <state width="1236" height="176" key="GridCell.Tab.0.bottom" timestamp="1594741256981">
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594941060721">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1594741256981" />
-    <state width="1236" height="176" key="GridCell.Tab.0.center" timestamp="1594741256981">
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.720@0.0.1280.720" timestamp="1594941060721" />
+    <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594941088705">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1594741256981" />
-    <state width="1236" height="176" key="GridCell.Tab.0.left" timestamp="1594741256980">
+    <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1594941088705" />
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1594825717860">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1594741256980" />
-    <state width="1236" height="176" key="GridCell.Tab.0.right" timestamp="1594741256981">
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1594825717860" />
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom" timestamp="1594944109892">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1594741256981" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594739082736">
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1594944109892" />
+    <state width="1236" height="176" key="GridCell.Tab.0.center" timestamp="1594944109892">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1594739082736" />
+    <state width="1236" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1594944109892" />
+    <state width="1236" height="176" key="GridCell.Tab.0.left" timestamp="1594944109892">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1594944109892" />
+    <state width="1236" height="176" key="GridCell.Tab.0.right" timestamp="1594944109892">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1594944109892" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594825371781">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1594825371781" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1594739805280">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
