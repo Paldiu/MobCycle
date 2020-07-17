@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d50ca98a-2bc7-4c85-a48c-c83f5952a4fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/CatType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/FoxType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/HorseType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/LlamaType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/PandaType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/ParrotType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/RabbitType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/SheepType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/TropicalFishType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/VillagerType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/coomware/util/CycleListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/util/CycleListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/coomware/util/TypeCycler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/util/TypeCycler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/coomware/types/SheepType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/types/SheepType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,26 +77,26 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1594825717860" />
-    <state width="1236" height="176" key="GridCell.Tab.0.bottom" timestamp="1594944109892">
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom" timestamp="1594945083727">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1594944109892" />
-    <state width="1236" height="176" key="GridCell.Tab.0.center" timestamp="1594944109892">
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1594945083727" />
+    <state width="1236" height="176" key="GridCell.Tab.0.center" timestamp="1594945083727">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1594944109892" />
-    <state width="1236" height="176" key="GridCell.Tab.0.left" timestamp="1594944109892">
+    <state width="1236" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1594945083727" />
+    <state width="1236" height="176" key="GridCell.Tab.0.left" timestamp="1594945083727">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1594944109892" />
-    <state width="1236" height="176" key="GridCell.Tab.0.right" timestamp="1594944109892">
+    <state width="1236" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1594945083727" />
+    <state width="1236" height="176" key="GridCell.Tab.0.right" timestamp="1594945083727">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1594944109892" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594825371781">
+    <state width="1236" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1594945083727" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594945010342">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1594825371781" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1594945010342" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1594739805280">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

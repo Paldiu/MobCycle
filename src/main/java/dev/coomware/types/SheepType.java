@@ -102,5 +102,7 @@ public class SheepType {
             sheep.setColor(DyeColor.YELLOW);
             p.closeInventory();
         });
+        //
+        body.open(p);
     }
 }
